@@ -15,7 +15,9 @@ pi: [toc, sortrefs, symrefs, comments]
 ipr: trust200902
 area: Routing
 wg: pim
-kw: multicast snooping
+kw:
+  - multicast
+  - snooping
 
 author:
   -
